@@ -1,0 +1,8 @@
+{
+    "marketplaceName"   : {"de": "Tool-Name","en": "Tool name"},
+    "license"           : "LICENSE_OF_THE_PLUGIN",
+    "price"             : 0.00,
+    "shortDescription"  : {"de":"German short description","en":"English short description"},
+    "categories"        : ["CATEGORY_ID"],
+    "keywords"          : ["plentymarkets", "plugins", "layout", "template"]
+}
